@@ -11,6 +11,7 @@ export default function Header() {
                 layout='fill'
                 objectFit='contain'
                 objectPosition='left'
+                alt='header'
             />
         </div>
         {/* middle div search field*/}
